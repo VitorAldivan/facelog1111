@@ -1,0 +1,44 @@
+Tipografia:
+
+Titulos:
+
+Ek Mukta  Bold      20px
+Ek Mukta  Bold      16px
+Ek Mukta  Bold      24px
+Ek Mukta  Bold 	    32px
+
+Botão: 
+
+Ek Mukta  ExtraBold 20px
+Ek Mukta  Regular   20px
+
+Textos:
+
+Ek Mukta  Regular   24px
+Ek Mukta  Medium    13px
+Ek Mukta  Medium    20px
+
+
+Paleta de cores:
+
+Branco: #FFFFFF
+Preto:  #000000
+Azul:   #1877F2
+Preto:  #3A3A3A
+Branco: #F5F5F5
+Cinza:  #767676
+Cinza:  #D5D3D3
+Branco: #E9E9E9
+Azul:   #1877F2 23%
+Cinza:  #BFBEBE
+Branco: #F1F1F1
+Cinza:  #E3E3E3
+
+FIGMA:
+
+https://www.figma.com/design/YSFRFDGd9eKgNVZdBLmruT/Untitled?node-id=0-1&node-type=canvas&t=WqQQ888mkZ1w6xC9-0
+
+
+
+
+
